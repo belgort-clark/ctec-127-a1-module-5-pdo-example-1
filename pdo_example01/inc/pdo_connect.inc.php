@@ -1,10 +1,10 @@
 <?php # pdo_connect.inc.php
 
 # Create a new connection to the database
-$host = 'ctec-127.cuqeqos1gudo.us-east-1.rds.amazonaws.com';
-$user = 'belgort';
-$password = 'XyNRKGta2bpxaexB';
-$dbname = 'ctec';
+$host = '';
+$user = '';
+$password = '';
+$dbname = '';
 
 // DSN - Data Source Name
 $dsn = 'mysql:host=' . $host . ';dbname=' . $dbname;
